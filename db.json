@@ -74,23 +74,6 @@
     }
   ],
   "wishlisted_cars": [
-    {
-      "brand": "Toyota",
-      "type": "Manual",
-      "year": "",
-      "kms": "4580",
-      "Description": "Toyota with all original documents",
-      "Price": "650000",
-      "id": 10
-    },
-    {
-      "brand": "Toyota",
-      "type": "Manual",
-      "year": "2015",
-      "kms": "5800",
-      "Description": "Toyata12 with all original documents",
-      "Price": "780000",
-      "id": 11
-    }
+ 
   ]
 }
