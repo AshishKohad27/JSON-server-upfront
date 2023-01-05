@@ -10,14 +10,87 @@
       "Price": 500000
     },
     {
-      "id": 2,
       "brand": "Tata",
+      "type": "Manual",
+      "year": "2022",
+      "kms": "4500",
+      "Description": "Tata Altroz with all original documents",
+      "Price": "45000",
+      "id": 5
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "4500",
+      "Description": "Tata Altroz with all original documents",
+      "Price": "45000",
+      "id": 6
+    },
+    {
+      "brand": "Mahindra",
       "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "year": "2015",
+      "kms": "7800",
+      "Description": "Mahindra with all original documents",
+      "Price": "65000",
+      "id": 7
+    },
+    {
+      "brand": "Hyundai",
+      "type": "AMT",
+      "year": "2016",
+      "kms": "2000",
+      "Description": "Hyundai with all original documents",
+      "Price": "43200",
+      "id": 8
+    },
+    {
+      "brand": "Maruti",
+      "type": "AMT",
+      "year": "2017",
+      "kms": "6000",
+      "Description": "Suzuki with all original documents",
+      "Price": "65000",
+      "id": 9
+    },
+    {
+      "brand": "Toyota",
+      "type": "Manual",
+      "year": "",
+      "kms": "4580",
+      "Description": "Toyota with all original documents",
+      "Price": "650000",
+      "id": 10
+    },
+    {
+      "brand": "Toyota",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "5800",
+      "Description": "Toyata12 with all original documents",
+      "Price": "780000",
+      "id": 11
     }
   ],
-  "wishlisted_cars": []
+  "wishlisted_cars": [
+    {
+      "brand": "Toyota",
+      "type": "Manual",
+      "year": "",
+      "kms": "4580",
+      "Description": "Toyota with all original documents",
+      "Price": "650000",
+      "id": 10
+    },
+    {
+      "brand": "Toyota",
+      "type": "Manual",
+      "year": "2015",
+      "kms": "5800",
+      "Description": "Toyata12 with all original documents",
+      "Price": "780000",
+      "id": 11
+    }
+  ]
 }
