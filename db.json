@@ -1,8 +1,4 @@
 {
-  "users": [],
-  "posts": [],
-  "comments": [],
-  "author": [],
   "cars": [
     {
       "id": 1,
@@ -22,5 +18,6 @@
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
     }
-  ]
+  ],
+  "wishlisted_cars": []
 }
